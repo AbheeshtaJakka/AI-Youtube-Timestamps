@@ -4,7 +4,7 @@ import { Helmet } from 'react-helmet';
 import LandingPage from './unAuth/LandingPage';
 import './App.css';
 import './firebase';
-
+//I added new comments - new branch created "Rename"
 function App() {
   return (
     <div className="app-structure-container">
